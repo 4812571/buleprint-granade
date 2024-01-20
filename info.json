@@ -1,0 +1,9 @@
+{
+  "name": "buleprint-granade",
+  "version": "0.1.0",
+  "title": "Buleprint Granade",
+  "author": "4812571",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "buleprint granade is just a granade that spawns empty blueprints items on the ground in the amount of 64"
+}
